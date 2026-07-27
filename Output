@@ -1,0 +1,45 @@
+Initializing Customer Purchase
+Purchase amount: $0
+Number purchases: 0
+Gift certificate amount: $0
+--------------------
+New Purchase 1
+Purchase amount: $15
+Number purchases: 1
+Gift certificate amount: $0
+--------------------
+New Purchase 2
+Purchase amount: $50
+Number purchases: 2
+Gift certificate amount: $0
+--------------------
+New Purchase 3
+Hooray! You received a gift certificate.
+Gift certificate value: $10
+Purchase amount: $0
+Number purchases: 0
+Gift certificate amount: $10
+--------------------
+New Purchase 4
+Invalid purchase amount: $-4
+Purchase amount: $0
+Number purchases: 0
+Gift certificate amount: $10
+--------------------
+New Purchase 5
+Purchase amount: $75
+Number purchases: 1
+Gift certificate amount: $10
+--------------------
+New Purchase 6
+Purchase amount: $170
+Number purchases: 2
+Gift certificate amount: $10
+--------------------
+New Purchase 7
+Hooray! You received a gift certificate.
+Gift certificate value: $20
+Purchase amount: $0
+Number purchases: 0
+Gift certificate amount: $20
+--------------------
